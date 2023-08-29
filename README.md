@@ -1,8 +1,12 @@
 
 ## Olá! Eu sou o Pedro Aielo
+<br>
 
+Este é meu LinkedIn. <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aielo/)
+<br>
 
+Este é meu portifólio. <br>
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedro-aielo-portfolio.netlify.app/)
 
 ![Pedro Aielo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Aielo&show_icons=true&theme=radical)
